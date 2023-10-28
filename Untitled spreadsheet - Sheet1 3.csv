@@ -1,0 +1,27 @@
+"business_id,stars,text,user_id,cool,useful,funny
+class101,5,""This class was amazing! The instructor was engaging, and the material was presented in a clear and interesting way."",student1,2,3,1
+class202,5,""Outstanding class! The instructor was knowledgeable, and the class projects were challenging but rewarding."",student1,3,4,1
+class303,5,""Highly recommend this class! The content was relevant, and the hands-on projects were excellent."",student2,2,3,0
+class404,5,""Fantastic class experience. The instructor's passion for the subject matter made the learning enjoyable."",student3,4,2,1
+class505,5,""Best class ever! The material was well-organized, and the instructor was responsive to questions."",student4,1,3,2
+class101,4,""Good class overall. The content was relevant, but the pacing was a bit fast for my liking."",student2,0,2,0
+class202,4,""Well-taught class with practical examples. The assignments were useful in reinforcing concepts."",student2,2,3,0
+class303,4,""Solid class. The instructor was approachable, and the class discussions were insightful."",student3,1,2,1
+class404,4,""Enjoyable class experience. The group projects fostered collaboration, and the content was diverse."",student4,3,2,0
+class505,4,""Above-average class. The material was interesting, and the instructor was knowledgeable."",student5,1,2,1
+class101,3,""The class was okay. Some parts were interesting, but I felt like there could have been more hands-on activities."",student3,1,1,1
+class202,3,""Average class. The content was standard, and the instructor did an okay job, but nothing exceptional."",student3,1,2,1
+class303,3,""Decent class. The material was a bit dry, but the instructor tried to make it engaging."",student1,0,1,2
+class404,3,""Mediocre class experience. The assignments were confusing, and the instructor lacked enthusiasm."",student2,0,1,3
+class505,3,""Not impressed with the class. The material felt outdated, and the instructor seemed disorganized."",student3,0,1,2
+class101,2,""Disappointing experience. The instructor seemed unprepared, and the class lacked structure."",student4,0,0,2
+class202,2,""Not worth the time. The class lacked substance, and I didn't gain much from it."",student4,0,1,2
+class303,2,""Below average class. The instructor's communication was unclear, and the assignments were tedious."",student5,0,0,3
+class404,2,""Poor class experience. The material was confusing, and the instructor was unresponsive to questions."",student5,0,0,3
+class505,2,""Waste of time. The class didn't meet my expectations, and the instructor was unengaging."",student1,0,0,4
+class101,1,""Terrible class. I regret taking it. The material was outdated, and the instructor was unhelpful."",student5,0,0,3
+class202,1,""Horrible class. I wouldn't recommend it to anyone. The instructor was unengaging, and the material was boring."",student5,0,0,3
+class303,1,""Awful class experience. The instructor seemed disinterested, and the assignments were poorly designed."",student2,0,0,4
+class404,1,""Dreadful class. The material was confusing, and the instructor lacked effective teaching methods."",student1,0,0,4
+class505,1,""Regret taking this class. The instructor was unresponsive, and the material was not well-presented."",student3,0,0,5
+"
